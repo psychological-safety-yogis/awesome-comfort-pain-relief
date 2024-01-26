@@ -6,7 +6,7 @@ This page was built using [Github Pages](https://docs.github.com/en/pages/quicks
 # AWESOME PSYCHOLOGICAL SAFETY
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
-# An awesome open-source list of ways to make your environment more psychologically safe . . . and coincidentally more successful"
+# An awesome open-source list of ways to be more comfortable, with military, office, home, and travel in mind."
 
 # Items
 
