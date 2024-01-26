@@ -65,4 +65,21 @@ This page was built using [Github Pages](https://docs.github.com/en/pages/quicks
 ## Seated
 
 - [TaiBest Gel Seat Cushion for Long Sitting, Office Chair Cushion for Sciatica Pain Relief, Car Seat Cooling Pad, Gel Cushion for Wheelchair (Dark Blue)](https://www.amazon.com/gp/product/B09ZTXJDNX/)
-- [KYSMOTIC Gel Seat Cushion for Long Sitting (Super Large & Thick), Soft & Breathable, Gel Chair Cushion for Wheelchair, for Hip Pain, Gel Seat Cushion for Office Chair (1 Cushion```
+- [KYSMOTIC Gel Seat Cushion for Long Sitting (Super Large & Thick), Soft & Breathable, Gel Chair Cushion for Wheelchair, for Hip Pain, Gel Seat Cushion for Office Chair (1 Cushion+1 Cover)](https://www.amazon.com/gp/product/B08YRRNCCK/)
+- [AmazeCov Adjustable Headrest Pillow for Recliners and Armchairs - Non-Slip Velvet Cushion for Neck Support and Pain Relief (Gray)](https://www.amazon.com/gp/product/B0BXY1TWDB/)
+
+## Office
+
+- [Adjustable Laptop Desk with Pockets&Slot&Handle - Klearlook PU Leather Height Adjustable Waterproof Lap Desk, Portable(Comfortable Cushion+Wrist Pad) Bed Couch Lap Table for Notebook/Tablet up to 17''](https://www.amazon.com/gp/product/B091JS395T/)
+
+## Footrest
+
+- [ErGear Foot Rest for Under Desk at Work - Adjustable Foot Rest with Breathable Washable Cover, Ergonomic Memory Foam Foot Rest for Home, Office Footrest of Latex-Like Slow-Bouncing Memory Sponge](https://www.amazon.com/gp/product/B0B6W3SCKD/)
+
+## Bath
+
+- [Luxury Bathtub Pillow Bath Pillows for Tub Neck and Back Support with Non-Slip Suction Cups, 4D Air Mesh Spa Bath Tub Pillow Headrest Cushion Fit Hot Tub, Bathtub](https://www.amazon.com/gp/product/B0956W57K7)
+
+## Exercise
+
+- [Rowing Machine Seat Cushion fits perfectly over Concept 2 Rower - Rower Seat Cushion Compatible with Hydrow, Concept2 and other Row Machines](https://www.amazon.com/gp/product/B01D10YY0C/)
