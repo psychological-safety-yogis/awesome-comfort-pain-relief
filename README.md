@@ -1,5 +1,5 @@
 
-<div align="center"><img src="./assets/head.jpg"></div>
+<div align="center"><img src="./assets/suffering.jpg"></div>
 
 This page was built using [Github Pages](https://docs.github.com/en/pages/quickstart) and [Github Awesome](https://github.com/sindresorhus/awesome#readme), using [Awesome Data Science](https://awesome-datascience.academic.io/) as a [source](https://github.com/academic/awesome-datascience) template.  Our source repository is [here](https://github.com/psychological-safety-yogis/awesome-psych-safety).  
 
