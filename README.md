@@ -82,7 +82,7 @@ This page was built using [Github Pages](https://docs.github.com/en/pages/quicks
 
 - [Rowing Machine Seat Cushion fits perfectly over Concept 2 Rower - Rower Seat Cushion Compatible with Hydrow, Concept2 and other Row Machines](https://www.amazon.com/gp/product/B01D10YY0C/)
 
-Guide to submitting changes, Github READMEs, and making your own. 
+# Postscript: Guide to submitting changes, Github READMEs, and making your own. 
 
 | Github how-to's | Link |
 | ------------- | ------------- |
