@@ -10,11 +10,11 @@ This page was built using [Github Pages](https://docs.github.com/en/pages/quicks
 
 # Items
 
-## Shirts
+## Shirts (cool, soft, military, close enough to the right color)
 
 - [netdraw Men's Ultra Soft Bamboo T-Shirt Curve Hem Lightweight Cooling Long/Short Sleeve Casual Basic Tee Shirt](https://www.amazon.com/gp/product/B0BX73SV9M/)
 
-## Socks
+## Socks (much easier to take off than the competition, cushiony, moisture-wicking, comfortable)
 
 - [Thorlos Mcb Max Cushion Combat Over The Calf Socks](https://www.amazon.com/gp/product/B001WPCAUK/)
 
