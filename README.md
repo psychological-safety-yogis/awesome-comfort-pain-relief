@@ -8,8 +8,6 @@ This page was built using [Github Pages](https://docs.github.com/en/pages/quicks
 
 # An awesome open-source list of ways to be more comfortable, with military, office, home, and travel in mind."
 
-# Items
-
 ## Shirts (cool, soft, military, close enough to the right color)
 
 - [netdraw Men's Ultra Soft Bamboo T-Shirt Curve Hem Lightweight Cooling Long/Short Sleeve Casual Basic Tee Shirt](https://www.amazon.com/gp/product/B0BX73SV9M/)
