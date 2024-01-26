@@ -3,7 +3,7 @@
 
 This page was built using [Github Pages](https://docs.github.com/en/pages/quickstart) and [Github Awesome](https://github.com/sindresorhus/awesome#readme), using [Awesome Data Science](https://awesome-datascience.academic.io/) as a [source](https://github.com/academic/awesome-datascience) template.  Our source repository is [here](https://github.com/psychological-safety-yogis/awesome-psych-safety).  
 
-# AWESOME PSYCHOLOGICAL SAFETY
+# AWESOME COMFORT AND PAIN RELIEF PRODUCTS
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
 # An awesome open-source list of ways to be more comfortable, with military, office, home, and travel in mind."
