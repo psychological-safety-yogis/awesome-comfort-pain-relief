@@ -21,7 +21,7 @@ This page was built using [Github Pages](https://docs.github.com/en/pages/quicks
 ## Boots
 
 - [Rocky (light) flight boots](https://www.rockyboots.com/safetofly/)
-- [Vibram® Sole Boots](https://www.rockyboots.com/vibram-boots/)
+- [Vibram Sole Boots](https://www.rockyboots.com/vibram-boots/)
 
 ## Shoes
 
